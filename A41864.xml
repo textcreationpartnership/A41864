@@ -1,0 +1,325 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great and good news from His Grace the Duke of Schomberg's camp at Dundalk containing I. A full account of the discovery of the villianous [sic] design of the French papists, II. The address of the Presbyterian ministers in the north of Ireland to His Grace the Duke of Schomberg, III. The address of the Quakers in the province of Ulster to His Grace the Duke of Schomberg, IV. A true list of the Irish prisoners taken by the renowned men of Eniskillen, at the Battel of Newtown.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41864</idno>
+            <idno type="STC">Wing G1655</idno>
+            <idno type="STC">ESTC R28394</idno>
+            <idno type="EEBO-CITATION">10585804</idno>
+            <idno type="OCLC">ocm 10585804</idno>
+            <idno type="VID">45278</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41864)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45278)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1358:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great and good news from His Grace the Duke of Schomberg's camp at Dundalk containing I. A full account of the discovery of the villianous [sic] design of the French papists, II. The address of the Presbyterian ministers in the north of Ireland to His Grace the Duke of Schomberg, III. The address of the Quakers in the province of Ulster to His Grace the Duke of Schomberg, IV. A true list of the Irish prisoners taken by the renowned men of Eniskillen, at the Battel of Newtown.</title>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Schomberg, Friedrich Hermann Schomberg, --  Duke of, 1615-1690.</term>
+               <term>Ireland --  History --  1688-1689.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:45278:1" rendition="simple:additions"/>
+            <head>Great and Good News From His <hi>Grace the Duke of Schombergs</hi> CAMP at <hi>D<g ref="char:V">Ʋ</g>NDALK:</hi> Containing,
+<list>
+                  <item>
+                     <hi>I.</hi> A full Account of the Diſcovery of the Villianous Deſign of the <hi>French</hi> Papiſts.</item>
+                  <item>
+                     <hi>II.</hi> The Addreſs of the Presbyterian Miniſters in the <hi>North</hi> of <hi>Ireland,</hi> to his Grace the Duke of <hi>Schomberg.</hi>
+                  </item>
+                  <item>
+                     <hi>III.</hi> The Addreſs of the Quakers, in the Province of <hi>Ulſter,</hi> to his Grace the Duke of <hi>Schomberg.</hi>
+                  </item>
+                  <item>
+                     <hi>IV.</hi> A true Liſt of the <hi>Iriſh</hi> Priſoners taken by the Renowned Men of <hi>En<g ref="char:EOLhyphen"/>niskillen,</hi> at the Battel of <hi>Newtown.</hi>
+                  </item>
+               </list>
+            </head>
+            <argument>
+               <p>Licenſed and Entred according to Order.</p>
+            </argument>
+            <div n="1" type="part">
+               <head>
+                  <hi>I.</hi> A full Account of the Diſcovery of the Villanous Deſign of the <hi>French Papiſts.</hi>
+               </head>
+               <p>THE 150 <hi>French</hi> Papiſts which were pickt out of the Army, are now at <hi>Carling<g ref="char:EOLhyphen"/>ford,</hi> and among them 'tis ſaid there is one Jeſuit, all ready to be ſhipt for <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> There is but four of the <hi>French,</hi> and two <hi>Iriſh</hi> that were going to <hi>Charle<g ref="char:EOLhyphen"/>mount</hi> to ſuffer, and of them one of the <hi>French</hi> is to be executed; his Crime, and the whole Diſcovery was thus: He that is to be executed, was formerly a Count in <hi>France,</hi> had Moneys from the <hi>French</hi> King to raiſe a Regiment, ſpent it, and not daring to ſhew his face, got to <hi>Holland,</hi> and from thence for <hi>England,</hi> where he inſinuated himſelf into the Army, pretending to be a Proteſtant, though he never was one, and came with the Army hither, where he writ a Letter to King <hi>James,</hi> that in caſe he would aſſure him of a Pardon from the <hi>French</hi> King, he would bring over to him 400 Men; that he ſhould ſend his Anſwer in a Letter, which was to be brought into the <hi>French</hi> Camp, by ſome Fellow, who, as a Countryman, was to come with a Croſs of white and red under the cover or folding of his Sleeve, and a Bottle of Brandy, crying, <hi>Brandy-wine, Brandy-wine,</hi> and ſo up and down only in the <hi>French</hi> Quarter, till one came to him, and ſaid, <hi>God bleſs you Friend, how do you ſell your Brandy?</hi> and turn up his Sleeve to look for the Croſs; which when the Huckſter perceived, he was to deliver the Letter from King <hi>James</hi> to him. The Meſſenger going with this Letter to the <hi>Iriſh</hi> Camp, being taken, diſcovered the Author, and it's ſaid, had his Pardon for it. This coming to the General, he forth<g ref="char:EOLhyphen"/>with gave orders to make publick Proclamation, at the head of each Regiment, <hi>That if any Papist was in the Army, did deny himſelf to be ſo, and afterward diſcovered, he ſhould im<g ref="char:EOLhyphen"/>mediately be put to Death, without more ado.</hi> And thereupon moſt, if not all the aforeſaid 150 were ſingled out. Since this Diſcovery, there is not one <hi>French</hi> man permitted to paſs any Guard, without a Paſs, any where out of the Camp: and orders are given to all Officers, to proclaim, at the head of every Regiment, <hi>That if there be any Roman Catholick, that ſhal not forthwith declare himſelf publickly to be ſo, if afterward diſcovered, ſhall be puniſhed with im<g ref="char:EOLhyphen"/>mediate Death.</hi> And it's ſaid, that upon that Proclamation, moſt, if not all thoſe at <hi>Carling-ford</hi> are found out to be ſuch.</p>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>II.</hi> To His Grace the Duke of <hi>Schomberg, Captain</hi> General to Their Majeſties Forces. The Humble Addreſs of the remaining <hi>Presbyterian</hi> Miniſters now in the North of <hi>Ireland.</hi>
+               </head>
+               <p>AS it hath pleaſed the Glorious Lord God to move Their Majeſties to take the Di<g ref="char:EOLhyphen"/>ſtreſſed Eſtate of their Proteſtant Subjects in this Country into their Royal Care, and to make way for your Graces coming into this Kingdom with an Army for Relief there<g ref="char:EOLhyphen"/>of,
+<pb facs="tcp:45278:2"/>ſo we judge our ſelves obliged to ſignifie unto your Grace the ſenſe of Duty upon us to bleſs God, and to Congratulate your Graces happy Arrival, and begun-ſucceſs, and do eſteem it our Diſpenſible Duty to continue Orators at the Throne of Grace, for carrying on his work in your Graces hands, and to endeavour to keep our People in all Loyalty to Their Majeſties, and Dutiful Obedience to your Graces Commands. So humbly ex<g ref="char:EOLhyphen"/>pecting your Graces Favour and Protection, We remain,</p>
+               <closer>
+                  <signed>Your Graces moſt Humble and Dutiful Servants,
+<list>
+                        <item>T. Hall,</item>
+                        <item>J. Fieland,</item>
+                        <item>J. Fiſher,</item>
+                        <item>F. Fredell,</item>
+                        <item>W. Adair,</item>
+                        <item>T. Futt. Malcome.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div n="3" type="part">
+               <head>
+                  <hi>III.</hi> To His Grace the Duke of <hi>Schomberg,</hi> General of Their Majeſties Forces in <hi>Ireland.</hi> The Hum<g ref="char:EOLhyphen"/>ble Addreſs of the People called <hi>Quakers,</hi> in the behalf of the whole, for the Province of <hi>Ulſter.</hi>
+               </head>
+               <p>WHereas we the People called <hi>Quakers</hi> ſince the Landing of the <hi>Engliſh</hi> Army are threatened, and ſome abuſes already committed upon them by thoſe that call themſelves Proteſtants, and for their pretence to abuſe us and make us odious in the ſight of the General and the whole Camp, do aſperſe and put forth, that we the ſaid People called <hi>Quakers,</hi> was aiding and aſſiſting to the late King <hi>James</hi> in his War, with Money to maintain a Regiment againſt the Proteſtants; which ſaid Aſperſion and envious In<g ref="char:EOLhyphen"/>formation, we in the behalf of the reſt of our Friends do utterly and ſolemnly deny, and in the ſight of God, can declare we never were aiding nor aſſiſting the ſaid King with Money or any thing elſe, ſave the Quartering men on free Quarter, which no Prote<g ref="char:EOLhyphen"/>ſtant could avoid no more than we; but on the contrary are great ſufferers, inſomuch that many have not left them to ſuſtain their Families, but ſtript their Clothes off their Backs, taken their Goods and Victuals out of their Houſes, their Horſes and Cows taken from them, and left in a ſtate of ſtarving, and not ſpared more than any other Proteſtant where ſuffering hath been.</p>
+               <p>Therefore we humbly deſire and intreat thee, in our plain way, as we are an Inno<g ref="char:EOLhyphen"/>cent People, and deſire to live peaceably, and do unto all men as we would have them do unto us; that thou would be pleaſed to give forth thy Order to the Army, and other Proteſtants in the Country, that are wrong informed againſt us, that they may not Rob us of our Goods, nor moleſt our Bodies or Families, for we are a People that deſires Peace, and is always willing to live honeſtly and ſoberly, and pay our tribute to whom it is due. Therefore we make bold to preſent thee with this our Addreſs as unto a Chri<g ref="char:EOLhyphen"/>ſtian Governour, hoping thou wilt be pleaſed to take us into thy Care and Favour, that we may not be further expoſed to ſpoil and ruin: As in Duty bound we ſhall humbly pray the Lord to be thy Reward.</p>
+               <closer>
+                  <dateline>Signed in the behalf of our Friends at <hi>Lisbourn</hi> 
+                     <date>the Second of <hi>September</hi> 1689.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>G. Gregſon,</item>
+                        <item>R. Hoope,</item>
+                        <item>T. Wainwright,</item>
+                        <item>J. Greer.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div n="4" type="part">
+               <head>
+                  <hi>IV.</hi> A True List of the Priſoners now at <hi>Enniskillen,</hi> that were taken at the Battle at <hi>Newton</hi> and <hi>Belturbet.</hi>
+               </head>
+               <list>
+                  <item>Lord <hi>Montcaſtle,</hi> Lieutenat Ge<g ref="char:EOLhyphen"/>neral. <hi>Mac Carty</hi>'s Officers belonging to his Lordſhip's Regiment.</item>
+                  <item>Major <hi>John Rooth.</hi>
+                  </item>
+                  <item>Capt. <hi>Barry O<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ge.</hi> Dead</item>
+                  <item>Lieut. <hi>Patrick Rivers.</hi>
+                  </item>
+                  <item>Lieut. <hi>Thomas Hogan.</hi>
+                  </item>
+                  <item>Lieut. <hi>Walter Obryan.</hi>
+                  </item>
+                  <item>Lieut. <hi>Daniel Mac Carty.</hi>
+                  </item>
+                  <item>Lieut. <hi>Cuſ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ck.</hi>
+                  </item>
+                  <item>Enſign <hi>Mac Carty.</hi>
+                  </item>
+                  <item>Enſign <hi>Patrick Lavallin.</hi>
+                  </item>
+                  <item>Enſign <hi>Michael Mulluany.</hi>
+                  </item>
+                  <item>Enſign <hi>Jo. Lawleſs.</hi>
+                  </item>
+                  <item>Enſign <hi>Gravalick.</hi>
+                  </item>
+                  <item>Lord <hi>Clares</hi> Officers.</item>
+                  <item>Major <hi>Marany.</hi>
+                  </item>
+                  <item>Capt. <hi>Lawleigh.</hi>
+                  </item>
+                  <item>Capt. <hi>Jo. Carroll.</hi>
+                  </item>
+                  <item>Capt. <hi>Conner.</hi>
+                  </item>
+                  <item>Capt. <hi>Edward Laey.</hi>
+                  </item>
+                  <item>Capt. <hi>Stephen Harrold.</hi>
+                  </item>
+                  <item>Lieut. <hi>Darby Callaghan.</hi>
+                  </item>
+                  <item>Lieut. <hi>Piercy Lacy.</hi>
+                  </item>
+                  <item>Lieut. <hi>Jo. Sampſon.</hi>
+                  </item>
+                  <item>Lieut. <hi>Thomas Kennedy</hi> Dead.</item>
+                  <item>Enſign <hi>James Stretch.</hi>
+                  </item>
+                  <item>Enſign <hi>Mauris Rawleigh.</hi>
+                  </item>
+                  <item>Enſign <hi>Macnamarra.</hi>
+                  </item>
+                  <item>Lord <hi>Buffins</hi> Officers.</item>
+                  <item>Capt. <hi>Francis Bourke.</hi>
+                  </item>
+                  <item>Capt. <hi>Patrick French.</hi>
+                  </item>
+                  <item>Capt. <hi>John Blake.</hi>
+                  </item>
+                  <item>Capt. <hi>Brown.</hi>
+                  </item>
+                  <item>Lieut. <hi>Jo. Kelly.</hi>
+                  </item>
+                  <item>Lieut. <hi>James Badkin.</hi>
+                  </item>
+                  <item>Lieut. <hi>John Blake.</hi>
+                  </item>
+                  <item>Lieut. <hi>John Bourke</hi> Dead.</item>
+                  <item>Lieut. <hi>Chriſtopher Finch.</hi>
+                  </item>
+                  <item>Enſign <hi>Mac Donnell.</hi>
+                  </item>
+                  <item>Enſign <hi>Stephen Linch.</hi>
+                  </item>
+                  <item>Enſign <hi>Nicholas French.</hi>
+                  </item>
+                  <item>Enſign <hi>Peter Merrick.</hi>
+                  </item>
+                  <item>Adjutant <hi>Dennis Madden.</hi>
+                  </item>
+                  <item>Collonel <hi>Obryans</hi>'s Reigment.</item>
+                  <item>Capt. <hi>Macnamarrah.</hi>
+                  </item>
+                  <item>Capt. <hi>Murtugh Obryan.</hi>
+                  </item>
+                  <item>Adjutant <hi>Nicholas Archdeacon.</hi>
+                  </item>
+                  <item>Quarter-Maſter <hi>Hahire.</hi>
+                  </item>
+                  <item>Sir <hi>James Cotters</hi> Reigment.</item>
+                  <item>Lieut. <hi>John Lacy.</hi>
+                  </item>
+                  <item>Priſoners taken at <hi>Bellturbet.</hi>
+                  </item>
+                  <item>Lord <hi>Galmoys</hi> Officers.</item>
+                  <item>Cap. <hi>
+                        <g ref="char:V">Ʋ</g>lick Bourk.</hi> Run away ſince.</item>
+                  <item>Capt. <hi>John Mac Grath.</hi>
+                  </item>
+                  <item>Lieut. <hi>Richard Bourke.</hi>
+                  </item>
+                  <item>Enſign <hi>James Eggan.</hi>
+                  </item>
+                  <item>Collonel <hi>Oxbroughs</hi> Officers.</item>
+                  <item>Capt. <hi>Coghlan.</hi>
+                  </item>
+                  <item>Capt. <hi>Miles Carroll.</hi>
+                  </item>
+                  <item>Lieut. <hi>Francis Scott.</hi>
+                  </item>
+                  <item>Lieut. <hi>Roger Mac Manus.</hi>
+                  </item>
+                  <item>Enſign <hi>Conner.</hi>
+                  </item>
+                  <item>Enſign <hi>Dulchantry.</hi>
+                  </item>
+                  <item>Collonel <hi>Purſels</hi> Reigment.</item>
+                  <item>Cornet <hi>James Keating.</hi>
+                  </item>
+                  <item>Quarter-Maſter <hi>Fits Gerrald.</hi>
+                  </item>
+               </list>
+               <p>In all
+<list>
+                     <item>2 Majors.</item>
+                     <item>17 Captains.</item>
+                     <item>18 Lieutenants.</item>
+                     <item>15 Enſigns.</item>
+                     <item>2 Ajutant.</item>
+                     <item>1 Cornet.</item>
+                     <item>2 Quarter-Maſters.</item>
+                  </list>
+               </p>
+               <p>In all 56 Officers beſides Common Soldiers, whoſe Numbers I have not, but may be eaſily Judged by the Number of Officers to be Extream great.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Black-Bull</hi> in the <hi>Old-Baily.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
